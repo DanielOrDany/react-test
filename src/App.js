@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Dan mentor</p>
         <p>Mykolai Zolochevskyi</p>
+        <p>Roman Kubai</p>
       </header>
     </div>
   );
