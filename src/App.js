@@ -10,6 +10,7 @@ function App() {
             Subversors team memebers:
         </p>
         <p>Dan mentor</p>
+        <p>Mykolai Zolochevskyi</p>
       </header>
     </div>
   );
